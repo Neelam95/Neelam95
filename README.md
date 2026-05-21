@@ -6,7 +6,7 @@
 
 ## 🚀 What I'm building right now
 
-**StreamSentinel** — An open-source agentic AI system that monitors real-time Kafka streams, detects anomalies autonomously, and either fixes them or escalates to a human. Powered by 5 specialized AI agents.
+**StreamSentinel** - An open-source agentic AI system that monitors real-time Kafka streams, detects anomalies autonomously, and either fixes them or escalates to a human. Powered by 5 specialized AI agents.
 
 🔗 [View Project](https://github.com/Neelam95/StreamSentinel) · [Follow the build on LinkedIn](https://www.linkedin.com/in/gauriborse/)
 
@@ -15,7 +15,7 @@
 ## 💼 About me
 
 - 🏢 Software Development Engineer @ **Capital Group**
-- 🔭 Building **StreamSentinel** — agentic AI on top of Kafka streams
+- 🔭 Building **StreamSentinel** - agentic AI on top of Kafka streams
 - 🌊 5+ years building production data pipelines at scale
 - ⚡ Passionate about distributed systems, real-time data, and AI agents
 - 📍 Based in the United States
@@ -84,4 +84,4 @@
 
 ---
 
-⭐ **Currently building StreamSentinel in public — follow along on LinkedIn!**
+⭐ **Currently building StreamSentinel in public - follow along on LinkedIn!**
