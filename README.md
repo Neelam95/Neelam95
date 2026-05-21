@@ -71,9 +71,9 @@
 
 ## 📊 GitHub Stats
 
-![Neelam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neelam95&show_icons=true&theme=dark&hide_border=true)
+![Neelam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neelam95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelam95&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelam95&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
