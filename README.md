@@ -25,7 +25,7 @@ An open-source agentic AI system that monitors real-time Kafka streams, detects 
 
 ## 💼 About me
 
-- 🏢 Software Development Engineer @ Capital Group
+- 🖥️ Software Development Engineer @ Capital Group
 - 🔭 Building StreamSentinel — agentic AI on top of Kafka streams
 - 🌊 5+ years building production data pipelines at scale
 - ⚡ Passionate about distributed systems, real-time data, and AI agents
@@ -35,11 +35,23 @@ An open-source agentic AI system that monitors real-time Kafka streams, detects 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · Java · Go · SQL  
-**Streaming & Data:** Apache Kafka · Apache Spark · Airflow  
-**Cloud & Infrastructure:** AWS (Lambda · EC2 · S3 · EventBridge) · Docker · Kubernetes  
-**AI & Agents:** Ollama · pgvector · Prometheus · Grafana  
-**Databases:** PostgreSQL · MongoDB  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
@@ -64,20 +76,7 @@ Agentic AI pipeline intelligence for real-time financial data streams
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neelamborse-blue)](https://linkedin.com/in/neelamborse)
-[![GitHub](https://img.shields.io/badge/GitHub-Neelam95-black)](https://github.com/Neelam95)
-
-⭐ Currently building StreamSentinel in public — follow along on LinkedIn!username=Neelam95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelam95&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauriborse/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelamborse)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neelam95)
 
----
-
-⭐ **Currently building StreamSentinel in public - follow along on LinkedIn!**
+⭐ Currently building StreamSentinel in public — follow along on LinkedIn!
